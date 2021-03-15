@@ -1,1 +1,1 @@
-console.log("ovo je jovan")
+console.log("ja sam jovan")
