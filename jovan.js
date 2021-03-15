@@ -1,1 +1,1 @@
-console.log("ja sam jorgovan")
+console.log("odluci se mitre")
